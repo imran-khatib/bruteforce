@@ -4,6 +4,7 @@ BLUE="\e[94m"
 RED="\e[31m"
 STOP="\e[0m"
 printf "${BLUE}"
+echo
 echo "========================================================"
 echo
 echo -en "Enter Domain/IP for Bruteforcing: "
